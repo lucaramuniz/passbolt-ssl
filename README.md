@@ -29,5 +29,5 @@ O Passbolt é uma solução de gerenciamento de senhas de código aberto e auto-
 - SSL/TLS
 
 ## Links Úteis
-- [Página do Projeto](https://www.passbolt.com/)
-- [Repositório no GitHub](link_para_repositorio_no_github)
+- [Página do Passbolt](https://www.passbolt.com/)
+- [Repositório do Passbolt no GitHub](https://github.com/passbolt/passbolt_api)
